@@ -1,0 +1,18 @@
+Passo a Passo retirar mancha:
+
+-Duplicar a camada
+-Selecinar a ferramenta Spot Healing Brush
+-Selecionar a area que quer tirar a mancha
+
+Passo a Passo aumentar brilho:
+
+-Duplicar a camada
+-Selecinar imagem> ajuste> brilho/contraste
+-Posicionar o ponteiro do brilho para direita até ficar bom
+
+Passo a Passo tirar excesso de azul:
+
+-Duplicar a camada
+-Selecinar imagem> ajuste> curvas
+-Selecionar canal Azul
+-Arrastar a linha dessa cor para baixo
